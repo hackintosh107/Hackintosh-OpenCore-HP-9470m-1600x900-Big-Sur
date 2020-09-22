@@ -20,11 +20,9 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
   - Alcor Micro USB Smart Card Reader
 * Fingerprint: Synaptics Fingerprint Sensors
 
-# Opencore version: 
-0.6.1
-
-# MacOS version:
-macOS Catalina 10.15.6
+# Version: 
+* Opencore: 0.6.1
+* macOS: Catalina 10.15.6
 
 # Working:
 * Intel HD Graphics 4000

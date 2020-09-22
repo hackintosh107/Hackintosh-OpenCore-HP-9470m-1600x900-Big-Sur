@@ -44,10 +44,14 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
 * Intel® Centrino® Advanced-N 6235
 * External microphone
 * Synaptics Fingerprint Sensors
+* D-Sub external port
+
+# Not test:
+* Mini Displayport external port
 
 # SMBIOS:
 iMac16,1
-
+ 
 # Note:
 Don't use this EFI bootloader for 1366x768 resolution
 

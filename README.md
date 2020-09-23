@@ -23,26 +23,25 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
 * Opencore: 0.6.1
 
 # Working:
-- [x] **Intel HD Graphics 4000**
-- [x] **Brightness slider**
-- [x] **Night shift**
-- [x] **Audio**
-- [x] **Internal microphone**
-- [x] **Touchpad (full gestures)**
-- [x] **Battery indicator**
-- [x] **Ethernet**
-- [x] **Bluetooth**
-- [x] **iCloud - Facetime - iMessage - Siri**
-- [x] **Card reader**
-- [x] **CPU power management**
-- [x] **Webcam**
-- [x] **All USB ports**
-- [x] **Fn function keys**
-
-# Not working:
-* Intel® Centrino® Advanced-N 6235
-* External microphone
-* Synaptics Fingerprint Sensors
+- [x] Intel HD Graphics 4000
+- [x] Brightness slider
+- [x] Night shift
+- [x] Audio
+- [x] Internal microphone
+- [] External microphone
+- [x] Touchpad (full gestures)
+- [x] Battery indicator
+- [x] Ethernet
+- [x] Bluetooth
+- [x] iCloud - Facetime - iMessage - Siri
+- [x] Card reader
+- [x] CPU power management
+- [x] Webcam
+- [x] All USB ports
+- [x] Fn function keys
+- [] Intel® Centrino® Advanced-N 6235
+- [] External microphone
+- [] Synaptics Fingerprint Sensors
 
 # Not test:
 * Mini Displayport external port

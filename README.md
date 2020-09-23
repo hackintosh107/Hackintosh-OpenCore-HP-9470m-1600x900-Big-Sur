@@ -28,7 +28,7 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
 - [x] Night shift
 - [x] Audio
 - [x] Internal microphone
-- [] External microphone
+- [ ] External microphone
 - [x] Touchpad (full gestures)
 - [x] Battery indicator
 - [x] Ethernet
@@ -39,9 +39,9 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
 - [x] Webcam
 - [x] All USB ports
 - [x] Fn function keys
-- [] Intel® Centrino® Advanced-N 6235
-- [] External microphone
-- [] Synaptics Fingerprint Sensors
+- [ ] Intel® Centrino® Advanced-N 6235
+- [ ] External microphone
+- [ ] Synaptics Fingerprint Sensors
 
 # Not test:
 * Mini Displayport external port

@@ -24,8 +24,6 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
 
 # Working:
 - [x] Intel HD Graphics 4000
-- [x] Brightness slider
-- [x] Night shift
 - [x] Audio
 - [x] Internal microphone
 - [ ] External microphone
@@ -33,11 +31,10 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
 - [x] Battery indicator
 - [x] Ethernet
 - [x] Bluetooth
-- [x] iCloud - Facetime - iMessage - Siri
 - [x] Card reader
 - [x] CPU power management
 - [x] Webcam
-- [x] All USB ports
+- [x] USB ports
 - [x] Fn function keys
 - [ ] Intel® Centrino® Advanced-N 6235
 - [ ] External microphone

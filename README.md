@@ -20,7 +20,7 @@ Opencore EFI bootloader for HP 9470m with 1600x900 resolution
 * Fingerprint: Synaptics Fingerprint Sensors
 
 # Version: 
-* Opencore: 0.6.1
+* Opencore: 0.6.2
 
 # Working:
 - [x] Intel HD Graphics 4000

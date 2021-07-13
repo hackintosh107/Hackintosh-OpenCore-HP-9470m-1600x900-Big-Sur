@@ -1,6 +1,5 @@
-# Hackintosh-OpenCore-HP-9470m-1600x900
-OpenCore EFI bootloader for HP 9470m with 1600x900 resolution
-
+# Hackintosh-OpenCore-HP-9470m-1600x900-Big-Sur
+OpenCore EFI bootloader for HP 9470m with 1600x900 resolution - Big Sur
 <p align="center">
   <img width="400" height="300" src="/img/HP_9470m.png">
 </p>

@@ -1,5 +1,6 @@
 # Hackintosh-OpenCore-HP-9470m-1600x900-Big-Sur
-OpenCore EFI bootloader for HP 9470m with 1600x900 resolution - Big Sur
+OpenCore EFI bootloader for HP 9470m with 1600x900 resolution
+
 <p align="center">
   <img width="400" height="300" src="/img/HP_9470m.png">
 </p>
@@ -35,15 +36,15 @@ OpenCore EFI bootloader for HP 9470m with 1600x900 resolution - Big Sur
 - [x] AirDrop
 - [x] Bluetooth
 - [x] Sidecar
-- [ ] Card reader
 - [x] CPU power management
 - [x] Webcam
 - [x] USB ports
 - [x] Fn function keys
+- [ ] Card reader
 - [ ] Synaptics Fingerprint Sensors
 
 # Not test:
-* Mini Displayport external port
+* DisplayPort external port
 * D-Sub external port
 
 # SMBIOS:

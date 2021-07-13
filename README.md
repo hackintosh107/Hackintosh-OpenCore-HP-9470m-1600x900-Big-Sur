@@ -33,6 +33,7 @@ OpenCore EFI bootloader for HP 9470m with 1600x900 resolution
 - [x] Battery indicator
 - [x] Ethernet
 - [x] Wi-Fi
+- [x] AirDrop
 - [x] Bluetooth
 - [x] Card reader
 - [x] CPU power management
